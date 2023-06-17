@@ -1,0 +1,5 @@
+D:\Selenium Csharp\Csharp_ExcelReportGeneration\Csharp_ExcelReportGeneration\obj\Debug\net5.0\Csharp_ExcelReportGeneration.csprojAssemblyReference.cache
+D:\Selenium Csharp\Csharp_ExcelReportGeneration\Csharp_ExcelReportGeneration\obj\Debug\net5.0\Csharp_ExcelReportGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Selenium Csharp\Csharp_ExcelReportGeneration\Csharp_ExcelReportGeneration\obj\Debug\net5.0\Csharp_ExcelReportGeneration.AssemblyInfoInputs.cache
+D:\Selenium Csharp\Csharp_ExcelReportGeneration\Csharp_ExcelReportGeneration\obj\Debug\net5.0\Csharp_ExcelReportGeneration.AssemblyInfo.cs
+D:\Selenium Csharp\Csharp_ExcelReportGeneration\Csharp_ExcelReportGeneration\obj\Debug\net5.0\Csharp_ExcelReportGeneration.csproj.CoreCompileInputs.cache
